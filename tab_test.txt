@@ -1,4 +1,0 @@
-Zeile ohne Tab
-	Zeile mit einem Tab
-		Zeile mit zwei Tabs
-			Zeile mit drei Tabs
